@@ -83,7 +83,7 @@ Non better define me than **Passionate**
 
 ```npm i hud-gamepad```
 
-<img src="https://raw.githubusercontent.com/32teeth/hud-gamepad/master/animated.gif" style="position:relative;float:left"/>
+![GamePad](https://raw.githubusercontent.com/32teeth/hud-gamepad/master/animated.gif)
 
 ###### Wii Accessory Extension
 > Create Your Own Controller for Wii/WiiU
