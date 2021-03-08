@@ -5,7 +5,7 @@
 
 #### Work
 
-- We foresee, build, deploy and measure User Experiences for internal and external partners. 
+- Foresee, build, deploy and measure User Experiences for internal and external partners. 
 - Have a direct impact on how we shape the future of insurance, finance and wellness. 
 - Accelerates how our business partners deliver new digital products, services, and experiences to our customers.
 
