@@ -3,11 +3,11 @@
 > **Lead Engineer**
 > *Manulife | LOFT*
 
-#### LOFT
+#### Work
 
 - We foresee, build, deploy and measure User Experiences for internal and external partners. 
 - Have a direct impact on how we shape the future of insurance, finance and wellness. 
-- The **LOFT** accelerates how our business partners deliver new digital products, services, and experiences to our customers.
+- Accelerates how our business partners deliver new digital products, services, and experiences to our customers.
 
 #### About Me
 > Hi, my name is Eugene, on the internets I am also known as 32teeth
