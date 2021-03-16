@@ -10,6 +10,51 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    <link rel="stylesheet" href="game/css/styles.css" />
+    <style> 
+      @font-face{ 
+          font-family: "bit"; 
+          src: url("game/css/8bit.ttf"); 
+      } 
+      * {
+        padding: 0;
+        margin: 0;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none; /* Disable selection/copy in UIWebView */          
+      }            
+      html
+      {
+          -ms-touch-action: manipulation;
+          touch-action: manipulation;
+      }
+      body
+      {
+          width:  100vw;
+          height: 100vh;
+          margin: 0px;  
+          padding:0px; 
+          font-family: "bit";
+          touch-action: none;
+          -ms-touch-action: none;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          
+      }
+      canvas
+      {
+          image-rendering: optimizeSpeed;
+          image-rendering: -moz-crisp-edges;
+          image-rendering: -webkit-optimize-contrast;
+          image-rendering: -o-crisp-edges;
+          image-rendering: crisp-edges;
+          -ms-interpolation-mode: nearest-neighbor;
+           touch-action-delay: none;
+          touch-action: none;
+          -ms-touch-action: none;
+      }
+    </style>        
   </head>
   <body>
     <div class="wrapper">
@@ -56,6 +101,11 @@
 
       </section>
       <footer>
+        <canvas id="game"></canvas>
+        <script src="game/js/ads.js"></script>
+        <script src="game/js/game.js"></script>
+        <script src="game/js/social.js"></script>
+        <script src="js/index.js"></script>        
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
