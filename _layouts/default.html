@@ -4,6 +4,392 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+body {
+  background-color: #D6BF5C;
+}
+
+[id="colored_component"] {
+  position: absolute;
+  width: 200px;
+  height: 360px;
+  background-color: #FFCC33;
+  border-radius: 4px 4px 30px 4px;
+  box-shadow: 5px 5px 3px #BFAB52;
+  left: calc(50% - 100px);
+}
+
+[id="screen_border"] {
+  position: relative;
+  background-color: #4A4A4A;
+  margin-top: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 180px;
+  height: 160px;
+  border-radius: 4px 4px 20px 4px;
+}
+
+[id="screen"] {
+  position: relative;
+  width: 126px;
+  height: 126px;
+  top: 16px;
+  margin: auto;
+  background-color: #B5B28F;
+}
+
+[id="gameboy_color"] {
+  position: relative;
+  color: white;
+  font-size: 9px;
+  top: 19px;
+  left: 46.7px;
+}
+
+[id="power_light"] {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  top: -261.6px;
+  left: 15px;
+  background-color: black;
+  border-radius: 50%;
+  transition: background-color 1s ease 0.5s;
+  z-index: 100;
+}
+
+[id="power_text"] {
+  position: relative;
+  font-family: helvetica;
+  font-size: 4px;
+  color: white;
+  top: -99px;
+  left: 6.6px;
+}
+
+[class="power-moon"] {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+  margin-right: -5px;
+  border-radius: 50%;
+  box-shadow: 2px -0.2px 0 white;
+  top: -119.7px;
+  left: 8.3px;
+}
+
+#cross_button #vertical {
+  position: relative;
+  width: 20px;
+  height: 55px;
+  top: 30px;
+  left: 30px;
+  background-color: #4A4A4A;
+  border-radius: 3px;
+}
+
+[id="cross_button"] [id="horizontal"] {
+  position: relative;
+  width: 55px;
+  height: 20px;
+  top: -7px;
+  left: 12px;
+  background-color: #4A4A4A;
+  border-radius: 3px;
+}
+
+[id="up"] {
+  position: relative;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 10px solid #424242;
+  top: 3.5px;
+  left: 4.5px;
+}
+
+[id="down"] {
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: 40px;
+  left: 4.5px;
+  border-top: 10px solid #424242;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+[id="left"] {
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 5px;
+  left: 3.5px;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-right: 10px solid #424242;
+}
+
+[id="right"] {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 10px solid #424242;
+  bottom: 5px;
+  right: 3.5px;
+}
+
+[id="middle_round"] {
+  position: relative;
+  height: 13px;
+  width: 13px;
+  border-radius: 50%;
+  background-color: #424242;
+  top: 2.5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+[id="A_button"] {
+  position: relative;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  background-color: #4A4A4A;
+  top: -33px;
+  left: 155px;
+}
+
+[id="B_button"] {
+  position: relative;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  background-color: #4A4A4A;
+  top: -45px;
+  left: 125px;
+}
+
+[class="btn-txt"] {
+  position: absolute;
+  height: 27px;
+  width: 27px;
+  font-family: helvetica;
+  font-size: 11px;
+  text-align: center;
+  color: #424242;
+  top: 7px;
+}
+
+[id="select_button"] {
+  position: relative;
+  width: 27px;
+  height: 6px;
+  background-color: #424242;
+  border-radius: 5px;
+  left: 70px;
+}
+
+[id="start_button"] {
+  position: relative;
+  width: 27px;
+  height: 6px;
+  background-color: #424242;
+  border-radius: 5px;
+  top: -6px;
+  left: 110px;
+}
+
+[class="lower-btn-txt"] {
+  position: absolute;
+  height: 27px;
+  width: 27px;
+  font-family: helvetica;
+  font-size: 7.7px;
+  text-align: center;
+  color: #424242;
+  top: 14.6px;
+}
+
+[class="sound-holes"] {
+  height: 4px;
+  width: 4px;
+  border-radius: 50%;
+  background-color: #424242;
+  display: inline-block;
+}
+
+[class="row"] {
+  position: absolute;
+  right: 20px;
+  transform: rotate(-45deg);
+}
+
+[id="1st_row"] {
+  right: 6px;
+  bottom: 23px;
+  margin-right:3px;
+}
+
+[id="3nd_row"] {
+  right: 0px;
+  bottom: 17px;
+  margin-right:4px;
+}
+
+[id="4th_row"] {
+  right: 2px;
+  bottom: 13px;
+  margin-right:4px;
+}
+
+[id="on_offdiv"] {
+  position: absolute;
+  width: 3px;
+  height: 20px;
+}
+
+[id="on_off"] {
+  position: absolute;
+  width: 3px;
+  height: 20px;
+  background-color: #424242;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  bottom:260px;
+  left: 200px;
+  box-shadow: 2px 3px 3px #BFAB52;
+  transition: bottom 0.5s ease 0s;
+  display: block;
+  visibility:visible;
+  cursor: pointer;
+}
+
+[id="screen_on"] {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  bottom:176px;
+  left: 40px;
+  background-color: #EAEAFF;
+  visibility: hidden;
+}
+
+[id="buttonon_off"] {
+  display: none;
+}
+
+[id="nintendo_sign"] {
+  position: relative;
+  bottom: 194px;
+  left: 73px;
+  width: 50px;
+  height: 10px;
+  font-family: arial black;
+  font-size: 10px;
+  visibility: hidden;
+}
+
+/*NINTENDO Letters animation on screen*/
+
+[class="letters"] {
+  position: absolute;
+  width: 120px;
+  height: 20px;
+  text-align: center;
+  bottom: 245px;
+  left: 39px;
+  font-family:ARIAL BLACK;
+  font-size:19px;
+  display:inline-block;
+  margin-right:-3.5px;
+}
+
+[id="letter_G"] {
+  display: inline-block;
+  left:0px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+[id="buttonon_off"]:checked ~ #letter_G {
+  visibility: visible;
+  transition:all 0s ease 4s;
+}
+
+[id="letter_A"] {
+  display: inline-block;
+  left:14px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+[id="buttonon_off"]:checked ~ #letter_A {
+  visibility: visible;
+  transition:all 0s linear 4.1s;
+}
+
+[id="letter_M"] {
+  display: inline-block;
+  left:29px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+[id="buttonon_off"]:checked ~ #letter_M {
+  visibility: visible;
+  transition:all 0s linear 4.2s;
+}
+
+[id="letter_E"] {
+  display: inline-block;
+  left:43px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+[id="buttonon_off"]:checked ~ #letter_E {
+  visibility: visible;
+  transition:all 0s linear 4.3s;
+}
+
+[id="letter_B"] {
+  display: inline-block;
+  left:56px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+[id="buttonon_off"]:checked ~ #letter_B {
+  visibility: visible;
+  transition:all 0s linear 4.4s;
+}
+
+[id="letter_O"] {
+  display: inline-block;
+  left:69px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+[id="buttonon_off"]:checked ~ #letter_O {
+  visibility: visible;
+  transition:all 0s linear 4.5s;
+}
+
+[id="letter_Y"] {
+  display: inline-block;
+  left:81px;
+  bottom:240px;
+  visibility:hidden;
+}
+
+    </style>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -28,15 +414,92 @@
         -->
         {% endif %}
 
-        <a href="https://github.com/retro-esp32/RetroESP32" style="padding:20px;border:solid 5px rgba(0,0,0,0.1);box-shadow:5px 5px 5px rgba(0,0,0,0.25);">
-          <img src="https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/logo.jpg">
-          <small><em><strong>Retro ESP32</strong> is a turbo charged Odroid Go Launcher, Emulator and ROM Manager</em></small>
-          <div style="padding: 5px;display: flex;flex-direction: column;justify-content: space-between;">
-            <img src="https://img.shields.io/github/v/release/retro-esp32/RetroESP32?style=for-the-badge" alt="Latest Release" width="100%">
-            <img src="https://img.shields.io/github/downloads/retro-esp32/RetroESP32/total?style=for-the-badge&color=hotpink&logo=data:image/gif;base64,R0lGODlhYgB3AKIFAMwAAN9fX/THx88PD////////wAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNyAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpCOUQzNzMwM0RENzcxMUU5ODg0M0IzRDNEM0E3MUNENSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpCOUQzNzMwNERENzcxMUU5ODg0M0IzRDNEM0E3MUNENSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkI5RDM3MzAxREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI5RDM3MzAyREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAABQAsAAAAAGIAdwAAA/9YtNz+MMpJq3Xq6s27/2AojmRpnmiqrmzrvnAsz7Ra3Hiu73zv/z0XcEgsEoXGpLKIXDqfuSZ0qpRSr0MrdsvTcr83L5grHmPLZio6DV2zne53tSX/xutMOv4MEgQGAQIRe3wfAQCIAYOEaiADiAADi4xtIIeJk5RwfX+BmZpzLKBPd6M6paY4qKkZoqxGq6mxprOjtaC3mrmUu4y9hL97wXjDdcVyx2/JbMtpzWbPY9Fg03Z6r0fX2EDVZNrbPt1b4oUr4Fnf5zvkV+yNrupBGq019RL09vkMYfr9C/z+8qkKaC8KwXoGD8pYpzBGl4ZoIJqLR7GixYsYM2rcyLGoo8ePIL3tC1npXrsJ2yycNMlq3hQKrzi8RCmrQ8lPumySoklL5yaWuD7sBJrTw1CcvoT+RApMqbwT5Qg8NBoOxUyiVKtCPQo061MTXHl6nQp2iUyAF9BtTZLVJTeroTYk5Pl2LSyfaCHctZttbF6zcPfiHRc4j19ldK8ORpb45llhjR2nTUpUsVvIlSWrpMw0LExekS2HZpz53WjSnUVjIMmVtevXSRIAADs=" alt="Downloads" width="100%">
-            <img src="https://img.shields.io/github/last-commit/retro-esp32/RetroESP32/master?style=for-the-badge&logo=github)" alt="Latest Commit" width="100%">
+        <div id="colored_component">
+
+          <div id="screen_border">
+        
+            <div id="screen">
+
+              <a href="https://github.com/retro-esp32/RetroESP32" style="padding:20px;border:solid 5px rgba(0,0,0,0.1);box-shadow:5px 5px 5px rgba(0,0,0,0.25);">
+                <img src="https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/logo.jpg">
+                <small><em><strong>Retro ESP32</strong> is a turbo charged Odroid Go Launcher, Emulator and ROM Manager</em></small>
+                <div style="padding: 5px;display: flex;flex-direction: column;justify-content: space-between;">
+                  <img src="https://img.shields.io/github/v/release/retro-esp32/RetroESP32?style=for-the-badge" alt="Latest Release" width="100%">
+                  <img src="https://img.shields.io/github/downloads/retro-esp32/RetroESP32/total?style=for-the-badge&color=hotpink&logo=data:image/gif;base64,R0lGODlhYgB3AKIFAMwAAN9fX/THx88PD////////wAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNyAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpCOUQzNzMwM0RENzcxMUU5ODg0M0IzRDNEM0E3MUNENSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpCOUQzNzMwNERENzcxMUU5ODg0M0IzRDNEM0E3MUNENSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkI5RDM3MzAxREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI5RDM3MzAyREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAABQAsAAAAAGIAdwAAA/9YtNz+MMpJq3Xq6s27/2AojmRpnmiqrmzrvnAsz7Ra3Hiu73zv/z0XcEgsEoXGpLKIXDqfuSZ0qpRSr0MrdsvTcr83L5grHmPLZio6DV2zne53tSX/xutMOv4MEgQGAQIRe3wfAQCIAYOEaiADiAADi4xtIIeJk5RwfX+BmZpzLKBPd6M6paY4qKkZoqxGq6mxprOjtaC3mrmUu4y9hL97wXjDdcVyx2/JbMtpzWbPY9Fg03Z6r0fX2EDVZNrbPt1b4oUr4Fnf5zvkV+yNrupBGq019RL09vkMYfr9C/z+8qkKaC8KwXoGD8pYpzBGl4ZoIJqLR7GixYsYM2rcyLGoo8ePIL3tC1npXrsJ2yycNMlq3hQKrzi8RCmrQ8lPumySoklL5yaWuD7sBJrTw1CcvoT+RApMqbwT5Qg8NBoOxUyiVKtCPQo061MTXHl6nQp2iUyAF9BtTZLVJTeroTYk5Pl2LSyfaCHctZttbF6zcPfiHRc4j19ldK8ORpb45llhjR2nTUpUsVvIlSWrpMw0LExekS2HZpz53WjSnUVjIMmVtevXSRIAADs=" alt="Downloads" width="100%">
+                  <img src="https://img.shields.io/github/last-commit/retro-esp32/RetroESP32/master?style=for-the-badge&logo=github)" alt="Latest Commit" width="100%">
+                </div>
+              </a>
+              
+            </div>
+            <div id="gameboy_color"> <span style="font-family:arial black">Retro</span> <span style="font-family:comic sans ms"> <span style="color:pink">E</span><span style="color:
+            violet">S</span><span style="color:yellow">P</span><span style="color:orange">3</span><span style="color:blue">2</span></div>
+        
+            <div id="power_text">POWER</div>
+        
+            <div class="power-moon"></div>
+            <div class="power-moon"></div>
+            <div class="power-moon"></div>
           </div>
-        </a>
+        
+        
+          <div id="cross_button">
+        
+            <div id="vertical">
+              <div id="up"></div>
+              <div id="down"></div>
+            </div>
+            <div id="horizontal">
+              <div id="middle_round"></div>
+              <div id="left"></div>
+              <div id="right"></div>
+            </div>
+          </div>
+        
+          <div id="A_button">
+            <div class="btn-txt">A</div>
+          </div>
+          <div id="B_button">
+            <div class="btn-txt">B</div>
+          </div>
+          <div id="select_button">
+            <div class="lower-btn-txt">SELECT</div>
+          </div>
+          <div id="start_button">
+            <div class="lower-btn-txt">START</div>
+          </div>
+        
+          <div id="1st_row" class="row">
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+          </div>
+          <div id="2nd_row" class="row">
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+          </div>
+          <div id="3nd_row" class="row">
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+          </div>
+        
+          <div id="4th_row" class="row">
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+            <div class="sound-holes"></div>
+          </div>
+        
+        
+        </div>        
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
