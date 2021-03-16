@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 title: Hi, I'm 32teeth
 description: Eugene is a technologist at heart, and has over 20 years professional experience
+
+owner: 
+  name: Eugene Andruszczenko
+  avatar: https://avatars.githubusercontent.com/u/75797
+  bio: "Eugene is a technologist at heart, and has over 20 years professional experience Starting off early on in ‘ethical hacking’ and reverse engineering, has led him to enable more efficient, streamlined methods of applying technology to existing lag prone processes. Bias towards action & what works in practice are not just core beliefs, but mantras. With a vast knowledge base ranging from hardware and circuit design, through middleware and connectivity to front end presentation tier, Eugene has continued to deliver customer and end client solutions through technological abstraction and driving core focus on business success criteria."
+  email: eugene.andruszczenko@gmail.com
+  twitter: eugeneyevhen
+  linkedin: 32teeth
+  github: 32teeth
