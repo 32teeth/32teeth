@@ -1,7 +1,7 @@
 ### [Eugene Andruszczenko](https://github.com/sponsors/32teeth)
 
-> **Lead Engineer**
-> *Manulife | LOFT*
+> **Software Development Engineer**
+> *Amazon | Last Mile*
 
 #### Work
 
