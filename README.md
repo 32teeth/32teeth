@@ -24,6 +24,7 @@ Non better define me than **Passionate**
 
 -----
 
+
 *"Eugene is a technologist at heart, and has over 20 years professional experience*
 
 *Starting off early on in ‘ethical hacking’ and reverse engineering, has led him to enable more efficient, streamlined methods of applying technology to existing lag prone processes. Bias towards action & what works in practice are not just core beliefs, but mantras.*
