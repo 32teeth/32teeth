@@ -1,12 +1,12 @@
 ### [Eugene Andruszczenko](https://github.com/sponsors/32teeth)
 
-> **Software Development Engineer**
+> **Software Development Engineer (FEE III)**
 > *Amazon | Last Mile*
 
 #### Work
 
 - Foresee, build, deploy and measure User Experiences for internal and external partners. 
-- Have a direct impact on how we shape the future of insurance, finance and wellness. 
+- Have a direct impact on how we shape the future of retail, service, delivery experiences.
 - Accelerates how our business partners deliver new digital products, services, and experiences to our customers.
 
 #### About Me
