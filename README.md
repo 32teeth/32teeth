@@ -1,7 +1,7 @@
 ### [Eugene Andruszczenko](https://github.com/sponsors/32teeth)
 
 > **Software Development Engineer (FEE III)**
-> *Amazon | Last Mile*
+> *Amazon | AWS Code*
 
 #### Work
 
