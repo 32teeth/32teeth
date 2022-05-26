@@ -1,12 +1,11 @@
 # This is a basic workflow to help you get started with Actions
 
-name: (╯°□°)╯︵ ┻━┻
-
+name: hello
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: main
   pull_request:
     branches: [ main ]
 
@@ -34,3 +33,12 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+      - name: First interaction
+        uses: actions/first-interaction@v1.1.0
+        with:
+          # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
+          repo-token: xyz
+          # Comment to post on an individual's first issue
+          issue-message: 'hello and thank you' # optional
+          # Comment to post on an individual's first pull request
+          pr-message: 'thanks for the pr' # optional          
