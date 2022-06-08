@@ -12,7 +12,7 @@
 #### About Me
 > Hi, my name is Eugene, on the internets I am also known as 32teeth
 
-![Eugene Andruszczenko](assets/happy.png)
+![Eugene Andruszczenko](assets/profile.png)
 
 I have been called many things
 - [x] Hacker
