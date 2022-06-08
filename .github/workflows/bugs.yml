@@ -2,7 +2,7 @@ name: Feature
 
 on:
   push:
-    branches: [ "bug", "features ]
+    branches: [ "bugs", "features ]
 
   workflow_dispatch:
 
