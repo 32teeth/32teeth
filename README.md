@@ -33,7 +33,17 @@ Non better define me than **Passionate**
 
 -----
 
+### Fun UX Snippets
+> I sometimes do things on [CodePen](https://codepen.io/32teeth)
 
+| Description | Screenshot |
+|--|--|
+| [RGB TKL 80% Keyboard](https://codepen.io/32teeth/details/PoeKmKX) | ![](https://shots.codepen.io/32teeth/pen/PoeKmKX-800.webp) |
+| [Nintendo 2DS XL](https://codepen.io/32teeth/pen/Vwxbpqx) | ![](https://shots.codepen.io/32teeth/pen/Vwxbpqx-800.jpg?version=1663592876) |
+|[Chain Reaction](https://codepen.io/32teeth/pen/vYjxgVJ)|![](https://shots.codepen.io/32teeth/pen/vYjxgVJ-800.jpg?version=1663420610)|
+|[Waves with blurred background](https://codepen.io/32teeth/pen/KKRNJxB)|![](https://shots.codepen.io/32teeth/pen/KKRNJxB-800.jpg?version=1663342507)|
+|[Do A Kickflip](https://codepen.io/32teeth/pen/RwyRLGV)|![](https://shots.codepen.io/32teeth/pen/RwyRLGV-800.jpg?version=1663342575)|
+| [NES - 60 Minute Challenge](https://codepen.io/32teeth/pen/zYjzrqY) | ![](https://shots.codepen.io/32teeth/pen/zYjzrqY-800.webp?version=1663802073) |
 
 #### Merits
 > A few, here and there, professional and personal
