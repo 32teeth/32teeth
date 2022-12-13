@@ -8,6 +8,7 @@
 - Foresee, build, deploy and measure User Experiences for internal and external partners. 
 - Have a direct impact on how we shape the future of retail, service, delivery experiences.
 - Accelerates how our business partners deliver new digital products, services, and experiences to our customers.
+- Customer / User Experience is paramount
 
 #### About Me
 > Hi, my name is Eugene, on the internets I am also known as 32teeth
