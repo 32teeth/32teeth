@@ -36,20 +36,6 @@ Non better define me than **Passionate**
 
 -----
 
-### Fun UX Snippets
-> I sometimes do things on [CodePen](https://codepen.io/32teeth)
-
-| Description | Screenshot |
-|--|--|
-| [Chest of Drawers](https://codepen.io/32teeth/details/QWraNOZ) | ![](https://shots.codepen.io/32teeth/pen/QWraNOZ-800.webp) |
-| [New Gmail UX in 25 minutes](https://codepen.io/32teeth/details/BaVpoeK) | ![](https://shots.codepen.io/32teeth/pen/BaVpoeK-800.webp) |
-| [RGB TKL 80% Keyboard](https://codepen.io/32teeth/details/PoeKmKX) | ![](https://shots.codepen.io/32teeth/pen/PoeKmKX-800.webp) |
-| [Nintendo 2DS XL](https://codepen.io/32teeth/pen/Vwxbpqx) | ![](https://shots.codepen.io/32teeth/pen/Vwxbpqx-800.jpg?version=1663592876) |
-|[Chain Reaction](https://codepen.io/32teeth/pen/vYjxgVJ)|![](https://shots.codepen.io/32teeth/pen/vYjxgVJ-800.jpg?version=1663420610)|
-|[Waves with blurred background](https://codepen.io/32teeth/pen/KKRNJxB)|![](https://shots.codepen.io/32teeth/pen/KKRNJxB-800.jpg?version=1663342507)|
-|[Do A Kickflip](https://codepen.io/32teeth/pen/RwyRLGV)|![](https://shots.codepen.io/32teeth/pen/RwyRLGV-800.jpg?version=1663342575)|
-| [NES - 60 Minute Challenge](https://codepen.io/32teeth/pen/zYjzrqY) | ![](https://shots.codepen.io/32teeth/pen/zYjzrqY-800.webp?version=1663802073) |
-
 #### Merits
 > A few, here and there, professional and personal
 
@@ -142,6 +128,20 @@ Non better define me than **Passionate**
 |    [<img src="https://raw.githubusercontent.com/wiki/32teeth/GabozePocaio-Round1/images/icons/github.png" width="40px">](https://github.com/32teeth)[<img src="https://raw.githubusercontent.com/wiki/32teeth/GabozePocaio-Round1/images/icons/instagram.png" width="40px">](https://www.instagram.com/gabozepocaio/)[<img src="https://raw.githubusercontent.com/wiki/32teeth/GabozePocaio-Round1/images/icons/messenger.png" width="40px">](https://www.facebook.com/messages/t/gabozepocaio)|
 | ---- |
 | Find me on the internet |
+
+### Fun UX Snippets
+> I sometimes do things on [CodePen](https://codepen.io/32teeth)
+
+| Description | Screenshot |
+|--|--|
+| [Chest of Drawers](https://codepen.io/32teeth/details/QWraNOZ) | ![](https://shots.codepen.io/32teeth/pen/QWraNOZ-800.webp) |
+| [New Gmail UX in 25 minutes](https://codepen.io/32teeth/details/BaVpoeK) | ![](https://shots.codepen.io/32teeth/pen/BaVpoeK-800.webp) |
+| [RGB TKL 80% Keyboard](https://codepen.io/32teeth/details/PoeKmKX) | ![](https://shots.codepen.io/32teeth/pen/PoeKmKX-800.webp) |
+| [Nintendo 2DS XL](https://codepen.io/32teeth/pen/Vwxbpqx) | ![](https://shots.codepen.io/32teeth/pen/Vwxbpqx-800.jpg?version=1663592876) |
+|[Chain Reaction](https://codepen.io/32teeth/pen/vYjxgVJ)|![](https://shots.codepen.io/32teeth/pen/vYjxgVJ-800.jpg?version=1663420610)|
+|[Waves with blurred background](https://codepen.io/32teeth/pen/KKRNJxB)|![](https://shots.codepen.io/32teeth/pen/KKRNJxB-800.jpg?version=1663342507)|
+|[Do A Kickflip](https://codepen.io/32teeth/pen/RwyRLGV)|![](https://shots.codepen.io/32teeth/pen/RwyRLGV-800.jpg?version=1663342575)|
+| [NES - 60 Minute Challenge](https://codepen.io/32teeth/pen/zYjzrqY) | ![](https://shots.codepen.io/32teeth/pen/zYjzrqY-800.webp?version=1663802073) |
 
 -----
 
