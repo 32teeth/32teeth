@@ -13,6 +13,8 @@
 #### About Me
 > Hi, my name is Eugene, on the internets I am also known as 32teeth
 
+As a leader of projects that require the work of multiple engineers, I prioritize the importance of clear communication and organization to ensure that all team members are on the same page and able to effectively contribute to the project. As the owner of my team's architecture, I take a system-wide view and provide design guidance to ensure that our solutions are not only effective but also scalable and maintainable.
+
 ![Eugene Andruszczenko](assets/profile.png)
 
 I have been called many things
