@@ -1,42 +1,81 @@
-### [Eugene Andruszczenko](https://github.com/sponsors/32teeth)
+### Eugene Andruszczenko
 
-> **Software Development Engineer (FEE III)**
-> *Amazon | AWS Code*
+#### Short Bio
+> Hi, my name is Eugene, on the internets I am also known as 32teeth.
 
-#### Work
+#### Introduction
+*"Eugene is a technologist at heart, with over 20 years of professional experience. Starting off early in 'ethical hacking' and reverse engineering, he has led more efficient, streamlined methods of applying technology to existing processes. His bias towards action and practical solutions are core beliefs, driving his focus on business success criteria. Eugene's extensive knowledge ranges from hardware and circuit design to middleware, connectivity, and front-end presentation tiers. He continues to deliver customer and end-client solutions through technological abstraction."*
 
-- Foresee, build, deploy and measure User Experiences for internal and external partners. 
-- Have a direct impact on how we shape the future of retail, service, delivery experiences.
-- Accelerates how our business partners deliver new digital products, services, and experiences to our customers.
-- Customer / User Experience is paramount
+### Featured Work
+#### Retro ESP32 X
+![Retro ESP32 X](https://raw.githubusercontent.com/retro-esp32/RetroESP32-X/main/assets/RetroESP32-X.png)
+Introducing the Retro ESP32 X, the latest iteration of our Retro ESP32 series! 🚀🕹️
 
-#### About Me
-> Hi, my name is Eugene, on the internets I am also known as 32teeth
+**Open Source Hardware Certifications**
+- **Certification UID:** [CA000030](https://certification.oshwa.org/ca0000230.html)
+- **Licensing:** CC-BY-SA-4.0
 
-As a leader of projects that require the work of multiple engineers, I prioritize the importance of clear communication and organization to ensure that all team members are on the same page and able to effectively contribute to the project. As the owner of my team's architecture, I take a system-wide view and provide design guidance to ensure that our solutions are not only effective but also scalable and maintainable.
+**Key Features**
+- **PCB:** Publicly available
+- **Schematic:** Publicly available
+- **BOM:** Publicly available
+- **Gerber:** Publicly available
+- **DXF:** Publicly available
 
-![Eugene Andruszczenko](assets/profile.png)
+**Updated Features**
+- 2.6" ILI9342C SPI ISP
+- FPC Ribbon Connector
+- USB C (Charge Only)
+- Serial Pin Breakout
 
-I have been called many things
-- [x] Hacker
-- [x] Tinkerer
-- [x] Maker
-- [x] Builder
+**Authors:** Eugene Yevhen Andruszczenko - [32teeth](https://github.com/32teeth)
 
-Non better define me than **Passionate**
+**License:** This project is licensed under the Creative Commons Attribution Share Alike 4.0 International - see the [LICENSE.md](LICENSE.md) file for details.
 
------
+**Support:** Although we do this for the love of gaming 🕹️, we also like coffee! Please consider supporting us through various sponsorship tiers with different rewards. [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
 
+#### Open Retro MGB
+![Open Retro MGB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/images/logo.png)
+Introducing Open Retro MGB, the open-source, modular gaming board designed for gamers and hobbyists! 🎮
 
-*"Eugene is a technologist at heart, and has over 20 years professional experience*
+**Open Source Hardware Certifications**
+- **Certification UID:** [CA000028](https://certification.oshwa.org/ca000028.html)
+- **Licensing:** CC-BY-SA-4.0
 
-*Starting off early on in ‘ethical hacking’ and reverse engineering, has led him to enable more efficient, streamlined methods of applying technology to existing lag prone processes. Bias towards action & what works in practice are not just core beliefs, but mantras.*
+**Overview**
+Open Retro MGB is a new open-source Modular Gaming Board designed for gamers and hobbyists alike. Based on the popular Retro ESP32, this compact and portable board is compatible with the Game Boy Pocket form factor and allows customers to either use the prebuilt ESP32 cartridge or design their own. With an easy-to-use modular design, gamers can customize their gaming experience by swapping out cartridges that feature different games or hardware functionalities. Open Retro MGB offers an affordable and accessible way to create and enjoy retro-style games with modern features, making it perfect for enthusiasts, hobbyists, and anyone looking for a fun, retro gaming experience.
 
-*With a vast knowledge base ranging from hardware and circuit design, through middleware and connectivity to front end presentation tier, Eugene has continued to deliver customer and end client solutions through technological abstraction and driving core focus on business success criteria."*
+**Features**
+- Cartridge slot
+- 2.6" daylight IPS screen
+- Volume and brightness control
+- LiPo battery charging and protection circuitry
+- Stereo chip and headphone jack
+- Drop-in compatibility with Game Boy Pocket shell
+- Modular design
+- USB Data Lines
+- Open source
 
------
+## Gallery
 
-#### Merits
+|Retro ESP32 Cart|Arduino *ATmega32U4* Cart|USB C Data Lines|What will you build?|
+|-|-|-|-|
+|![Retro ESP32](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/retroesp32.png)|![Arduino](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/arduino.png)|![USB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/usb-c.png)|![What will you build?](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/blank_cart_option.png)|
+## Trusted Creators
+> Celebrating 10 Years
+
+![Splash](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/tenyears.png)
+
+**Trusted Creators**
+Celebrating 10 Years
+
+**Authors:** Eugene Yevhen Andruszczenko - [32teeth](https://github.com/32teeth)
+
+**License:** This project is licensed under the Creative Commons Attribution Share Alike 4.0 International - see the [LICENSE.md](LICENSE.md) file for details.
+
+**Support:** Although we do this for the love of gaming 🕹️, we also like coffee! Please consider supporting us through various sponsorship tiers with different rewards. [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
+
+## Merits
 > A few, here and there, professional and personal
 
 ##### Alexa
@@ -60,92 +99,8 @@ Non better define me than **Passionate**
 - 2018 [Introducing the Game Boy Zero: Handheld Edition](https://fitc.ca/presentation/introducing-game-boy-zero-handheld-edition/)
 - 2014 [Sparky Jr. (Programmable RGB LED HID)](https://fitc.ca/presentation/sparkyjr-programmable-rgb-led-hid/)
 
-### Things I've Built
-> The short list version
-
-#### Retro ESP32
-> Retro ESP32 is a turbo charged Odroid Go Launcher, Emulator, ROM Manager and Hardware
-
-[![Release](https://img.shields.io/github/v/release/retro-esp32/RetroESP32?style=for-the-badge)](https://github.com/retro-esp32/RetroESP32/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/retro-esp32/RetroESP32/total?style=for-the-badge&color=hotpink&logo=data:image/gif;base64,R0lGODlhYgB3AKIFAMwAAN9fX/THx88PD////////wAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNyAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpCOUQzNzMwM0RENzcxMUU5ODg0M0IzRDNEM0E3MUNENSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpCOUQzNzMwNERENzcxMUU5ODg0M0IzRDNEM0E3MUNENSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkI5RDM3MzAxREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI5RDM3MzAyREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAABQAsAAAAAGIAdwAAA/9YtNz+MMpJq3Xq6s27/2AojmRpnmiqrmzrvnAsz7Ra3Hiu73zv/z0XcEgsEoXGpLKIXDqfuSZ0qpRSr0MrdsvTcr83L5grHmPLZio6DV2zne53tSX/xutMOv4MEgQGAQIRe3wfAQCIAYOEaiADiAADi4xtIIeJk5RwfX+BmZpzLKBPd6M6paY4qKkZoqxGq6mxprOjtaC3mrmUu4y9hL97wXjDdcVyx2/JbMtpzWbPY9Fg03Z6r0fX2EDVZNrbPt1b4oUr4Fnf5zvkV+yNrupBGq019RL09vkMYfr9C/z+8qkKaC8KwXoGD8pYpzBGl4ZoIJqLR7GixYsYM2rcyLGoo8ePIL3tC1npXrsJ2yycNMlq3hQKrzi8RCmrQ8lPumySoklL5yaWuD7sBJrTw1CcvoT+RApMqbwT5Qg8NBoOxUyiVKtCPQo061MTXHl6nQp2iUyAF9BtTZLVJTeroTYk5Pl2LSyfaCHctZttbF6zcPfiHRc4j19ldK8ORpb45llhjR2nTUpUsVvIlSWrpMw0LExekS2HZpz53WjSnUVjIMmVtevXSRIAADs=)](https://github.com/retro-esp32/RetroESP32/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/retro-esp32/RetroESP32/master?style=for-the-badge&logo=github)]()
-
-![Retro ESP32](https://www.geeky-gadgets.com/wp-content/uploads/2019/08/Game-Boy-Pocket-Retro-ESP32-board.jpg)
-
-
 ##### Retro ESP32 in the news:
 - [Geeky Gadgets](https://www.geeky-gadgets.com/game-boy-pocket-retro-esp32-board-15-08-2019/)
 - [Odroid Magazine](https://magazine.odroid.com/article/retro-esp32-the-ultimate-emulation-image-for-your-odroid-go/)
 - [Happy Gamer](https://happygamer.com/bring-your-old-nintendo-game-boy-pocket-back-to-life-with-the-esp32-wrover-board-22764/)
 - [Gaming Gadgets](https://gaminggadgets.de/retro-esp32-aus-eurem-gameboy-pocket-wird-ein-retro-handheld)
-- [SBC | Retro Game Handhels](https://www.rghandhelds.com/sbc-devices)
-
-###### GamePad
-> So you want to add a gamepad to a html5/canvas based app in [html5](http://html5.apache.org/)
-
-```npm i hud-gamepad```
-
-![GamePad](https://raw.githubusercontent.com/32teeth/hud-gamepad/master/animated.gif)
-
-###### Wii Accessory Extension
-> Create Your Own Controller for Wii/WiiU
-
-![Wii Accessory Extension](https://cdn.hackaday.io/images/resize/240x100/7183411560956763723.png)
-[GitHub](https://github.com/32teeth/WiiController32u4)
-
-###### OLED Tetris
-> It's Tetris, on an 128x32 OLED
-
-![OLED Tetris](https://cdn.hackaday.io/images/resize/240x100/5787081560956073149.jpg)
-[GitHub](https://github.com/32teeth/OLED-Tetris)
-
-###### Voltage Converters
-> Herein are a collection of Voltage / Boost Converters built for different projects using different ICs Best thing to do is read the whitepapers if you decide to make your own
-
-![Voltage Converters](https://cdn.hackaday.io/images/resize/240x100/4322541560955999937.jpeg)
-[GitHub](https://github.com/32teeth/VoltageConverters)
-
-###### Gaboze Pocaio
-> Raspberry Pi Zero based arcade in you pocket, and in your Gameboy Pocket
-
-![Gaboze Pocaio](https://cdn.hackaday.io/images/resize/240x100/4686521560955121588.jpg)
-[GitHub](https://github.com/Gaboze-Pocaio/Round-2)
-
-###### Convert PNG to ROM art
-> Create .art crc32 format ROM art
-
-![Create .art crc32 format ROM art](https://github.com/retro-esp32/Convert-Image-to-ROM-art/raw/master/preview.gif)
-[GitHub](https://github.com/retro-esp32/Convert-Image-to-ROM-art)
-
-###### Convert Image To Byte Array
-> Online Image To Array Converter for C/C++
-
-[GitHub](https://github.com/retro-esp32/Convert-Image-To-Byte-Array)
-
-### Colloboration
-> Always open to conversations
-
-|    [<img src="https://raw.githubusercontent.com/wiki/32teeth/GabozePocaio-Round1/images/icons/github.png" width="40px">](https://github.com/32teeth)[<img src="https://raw.githubusercontent.com/wiki/32teeth/GabozePocaio-Round1/images/icons/instagram.png" width="40px">](https://www.instagram.com/gabozepocaio/)[<img src="https://raw.githubusercontent.com/wiki/32teeth/GabozePocaio-Round1/images/icons/messenger.png" width="40px">](https://www.facebook.com/messages/t/gabozepocaio)|
-| ---- |
-| Find me on the internet |
-
-### Fun UX Snippets
-> I sometimes do things on [CodePen](https://codepen.io/32teeth)
-
-| Description | Screenshot |
-|--|--|
-| [Chest of Drawers](https://codepen.io/32teeth/details/QWraNOZ) | ![](https://shots.codepen.io/32teeth/pen/QWraNOZ-800.webp) |
-| [New Gmail UX in 25 minutes](https://codepen.io/32teeth/details/BaVpoeK) | ![](https://shots.codepen.io/32teeth/pen/BaVpoeK-800.webp) |
-| [RGB TKL 80% Keyboard](https://codepen.io/32teeth/details/PoeKmKX) | ![](https://shots.codepen.io/32teeth/pen/PoeKmKX-800.webp) |
-| [Nintendo 2DS XL](https://codepen.io/32teeth/pen/Vwxbpqx) | ![](https://shots.codepen.io/32teeth/pen/Vwxbpqx-800.jpg?version=1663592876) |
-|[Chain Reaction](https://codepen.io/32teeth/pen/vYjxgVJ)|![](https://shots.codepen.io/32teeth/pen/vYjxgVJ-800.jpg?version=1663420610)|
-|[Waves with blurred background](https://codepen.io/32teeth/pen/KKRNJxB)|![](https://shots.codepen.io/32teeth/pen/KKRNJxB-800.jpg?version=1663342507)|
-|[Do A Kickflip](https://codepen.io/32teeth/pen/RwyRLGV)|![](https://shots.codepen.io/32teeth/pen/RwyRLGV-800.jpg?version=1663342575)|
-| [NES - 60 Minute Challenge](https://codepen.io/32teeth/pen/zYjzrqY) | ![](https://shots.codepen.io/32teeth/pen/zYjzrqY-800.webp?version=1663802073) |
-
------
-
-# Thank you for reading
-> You've made it this far...  ...be sure to **⭐ Star** Me
-
-I'll ⭐ star you back. Because we are all 🌟 stars!
