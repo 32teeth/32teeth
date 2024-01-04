@@ -32,10 +32,11 @@ Introducing the Retro ESP32 X, the latest iteration of our Retro ESP32 series! �
 
 **License:** This project is licensed under the Creative Commons Attribution Share Alike 4.0 International - see the [LICENSE.md](LICENSE.md) file for details.
 
-**Support:** Although we do this for the love of gaming 🕹️, we also like coffee! Please consider supporting us through various sponsorship tiers with different rewards. [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
+**Support:** Although we do this for the love of gaming 🕹️, we also like coffee! Please consider supporting us through various sponsorship tiers with different rewards. [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
 
-#### Open Retro MGB
-![Open Retro MGB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/images/logo.png)
+#### [Open Retro MGB](https://github.com/openretroMGB/OpenRetroMGB)
+[![Open Retro MGB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/logo.png)](https://github.com/openretroMGB/OpenRetroMGB)
+
 Introducing Open Retro MGB, the open-source, modular gaming board designed for gamers and hobbyists! 🎮
 
 **Open Source Hardware Certifications**
@@ -73,7 +74,7 @@ Celebrating 10 Years
 
 **License:** This project is licensed under the Creative Commons Attribution Share Alike 4.0 International - see the [LICENSE.md](LICENSE.md) file for details.
 
-**Support:** Although we do this for the love of gaming 🕹️, we also like coffee! Please consider supporting us through various sponsorship tiers with different rewards. [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
+**Support:** Although we do this for the love of gaming 🕹️, we also like coffee! Please consider supporting us through various sponsorship tiers with different rewards. [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
 
 ## Merits
 > A few, here and there, professional and personal
