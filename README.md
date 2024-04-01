@@ -4,7 +4,16 @@
 > Hi, my name is Eugene, on the internets I am also known as 32teeth.
 
 #### Introduction
-*"Eugene is a technologist at heart, with over 20 years of professional experience. Starting off early in 'ethical hacking' and reverse engineering, he has led more efficient, streamlined methods of applying technology to existing processes. His bias towards action and practical solutions are core beliefs, driving his focus on business success criteria. Eugene's extensive knowledge ranges from hardware and circuit design to middleware, connectivity, and front-end presentation tiers. He continues to deliver customer and end-client solutions through technological abstraction."*
+
+*With nearly three decades in the tech arena, I've mastered the intricacies of hardware, delved into the depths of software, and conquered the challenges of middleware, operations, and DevOps. Recognized as a 'gray hat' engineer, I've led diverse teams and mentored rising stars.*
+
+***But here's the twist:** I'm also ADHD. Nine days out of ten, I'm calling the shots, but on that rare day, it's got me in its grip.*
+
+*Yet, amidst the chaos, I've honed a path of integrity, reliability, and excellence. As a seasoned staff engineer, I've cultivated cultures of innovation and collaboration, shaping products that dazzle users and surpass expectations.*
+
+*Driven by a fervor for human-centered design and customer-centricity, I craft solutions that aren't just cutting-edge—they're emotionally resonant, enhancing user journeys and driving brand loyalty.*
+
+*As I embark on fresh ventures, I'm poised to merge technical prowess with empathetic insights, delivering solutions that not only wow on a technical level but also win hearts and minds.*
 
 ### Featured Work
 #### Retro ESP32 X
