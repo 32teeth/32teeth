@@ -21,7 +21,7 @@
 Introducing the Retro ESP32 X, the latest iteration of our Retro ESP32 series! 🚀🕹️
 
 **Open Source Hardware Certifications**
-- **Certification UID:** [CA000030](https://certification.oshwa.org/ca0000230.html)
+- **Certification UID:** [CA000030](https://certification.oshwa.org/ca000030.html)
 - **Licensing:** CC-BY-SA-4.0
 
 **Key Features**
