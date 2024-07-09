@@ -3,6 +3,8 @@
 #### Short Bio
 > Hi, my name is Eugene, on the internets I am also known as 32teeth.
 
+[![32teeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=32teeth&show_icons=true&show=prs_merged&hide=prs&custom_title=32teeth&include_all_commits=true&theme=ambient_gradient)](https://github.com/32teeth/github-readme-stats)
+
 #### Introduction
 
 *With nearly three decades in the tech arena, I've mastered the intricacies of hardware, delved into the depths of software, and conquered the challenges of middleware, operations, and DevOps. Recognized as a 'gray hat' engineer, I've led diverse teams and mentored rising stars.*
