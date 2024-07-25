@@ -18,6 +18,11 @@
 *As I embark on fresh ventures, I'm poised to merge technical prowess with empathetic insights, delivering solutions that not only wow on a technical level but also win hearts and minds.*
 
 ### Featured Work
+#### Mindful Tech Companion
+>ADHD buddy for tech professionals
+
+![https://chatgpt.com/g/g-qlBSucWaV-mindful-tech-companion](https://github.com/user-attachments/assets/c081e521-79ef-40a0-95d1-a5b58d247a40)
+
 #### Retro ESP32 X
 ![Retro ESP32 X](https://raw.githubusercontent.com/retro-esp32/RetroESP32-X/main/assets/RetroESP32-X.png)
 Introducing the Retro ESP32 X, the latest iteration of our Retro ESP32 series! 🚀🕹️
