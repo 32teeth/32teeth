@@ -3,7 +3,7 @@
 #### Short Bio
 > Hi, my name is Eugene, on the internets I am also known as 32teeth.
 
-[![32teeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=32teeth&show_icons=true&show=prs_merged&hide=prs&custom_title=32teeth&include_all_commits=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![32teeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=32teeth&show_icons=true&show=prs_merged&hide=prs&custom_title=32teeth&include_all_commits=true&theme=graywhite)
 
 #### Introduction
 
