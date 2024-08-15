@@ -1,0 +1,1 @@
+![32teeth's GitHub stats](https://streak-stats.demolab.com/?user=32teeth&theme=graywhite&border_radius=10&card_width=720&type=png&fire=EB275C&stroke=EEEEEE&ring=DDDDDD&sideLabels=EB275C&dates=999999)
