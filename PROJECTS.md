@@ -14,3 +14,6 @@ Introducing the Retro ESP32 X, the latest iteration of our Retro ESP32 series! ð
 [![Open Retro MGB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/logo.png)](https://github.com/openretroMGB/OpenRetroMGB)
 
 Introducing Open Retro MGB, the open-source, modular gaming board designed for gamers and hobbyists! ðŸŽ®
+
+#### [Gaboze Pocaio](https://github.com/Gaboze-Pocaio/Round-2)
+[![Gaboze Pocaio](https://raw.githubusercontent.com/Gaboze-Pocaio/Round-2/main/images/002.jpg)](
