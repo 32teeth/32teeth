@@ -15,8 +15,11 @@ I am a seasoned professional with extensive experience in the technology industr
 * [Merits](https://github.com/32teeth/32teeth/blob/main/MERITS.md)
 * [Projects](https://github.com/32teeth/32teeth/blob/main/PROJECTS.md)
 
-### Thank You
+#### Sponsorhip tiers
+> Your support helps keep my projects free, accessible, and continually improving. Every contribution makes a difference!
+
 [![Sponsor](https://github.com/user-attachments/assets/38c207bd-4687-47ae-a900-5bbe5ad62b07)](https://github.com/sponsors/32teeth)
 
-#### Fuel Up
-<a href="https://www.buymeacoffee.com/32teeth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+* [Daily Grind](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286331&preview=false)
+* [Caffeine Boost](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286332&preview=false)
+* [Espresso Shot](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286333&preview=false)
