@@ -7,7 +7,7 @@
 Hi, my name is Eugene, on the internets I am also known as 32teeth.
 
 ## Long Bio
-I am a seasoned professional with extensive experience in the technology industry, spanning nearly three decades. Throughout my career, I have honed my skills in hardware, software, middleware, operations, and DevOps, allowing me to tackle complex challenges with ease. As a 'gray hat' engineer, I possess a unique ability to lead diverse teams while always operating within legal and ethical boundaries. My passion for innovation and collaboration has led me to cultivate cultures of excellence, driving product development and surpassing user expectations.
+I am a seasoned professional with extensive experience in the technology industry, spanning nearly three decades. Throughout my career, I have honed my skills in hardware, software, middleware, operations, and DevOps, allowing me to tackle complex challenges with ease. As a 'gray hat' engineer, I possess a unique ability to lead diverse teams while always operating within legal and ethical boundaries. My passion for innovation and collaboration has led me to cultivate cultures of excellence, driving product development and surpassing user expectations. [Full bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
 
 ### Links
 * [Full Bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
