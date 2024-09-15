@@ -1,7 +1,7 @@
 # Eugene Andruszczenko
 ### **32teeth**
 
-![32teeth's GitHub stats](https://streak-stats.demolab.com/?user=32teeth&theme=graywhite&border_radius=10&card_width=720&type=png&fire=EB275C&stroke=EEEEEE&ring=DDDDDD&sideLabels=EB275C&dates=999999)
+[![32teeth's GitHub stats](https://streak-stats.demolab.com?user=32teeth&theme=swift&mode=weekly&border_radius=10&card_width=720)](https://git.io/streak-stats)
 
 ## Short Bio
 Hi, my name is Eugene, on the internets I am also known as 32teeth.
