@@ -1,9 +1,6 @@
-# Eugene Yevhen Andruszczenko
-> Toronto, Ontario, Canada
-> Mobile: 6474048974 | Email: eugene.andruszczenko@gmail.com LinkedIn
-> [LinkedIn](https://www.linkedin.com/in/32teeth/) | [GitHub](https://github.com/32teeth) | [CodePen](https://codepen.io/32teeth)
+# **32teeth**
 
-### **32teeth**
+> Eugene (Yevhen) Andruszczenko
 
 [![32teeth's GitHub stats](https://streak-stats.demolab.com?user=32teeth&theme=swift&mode=weekly&border_radius=10&card_width=960)](https://git.io/streak-stats)
 
