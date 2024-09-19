@@ -1,13 +1,19 @@
-# Eugene Andruszczenko
+# Eugene Yevhen Andruszczenko
+> Toronto, Ontario, Canada
+> Mobile: 6474048974 | Email: eugene.andruszczenko@gmail.com LinkedIn
+> [LinkedIn](https://www.linkedin.com/in/32teeth/) | [GitHub](https://github.com/32teeth) | [CodePen](https://codepen.io/32teeth)
+
 ### **32teeth**
 
-[![32teeth's GitHub stats](https://streak-stats.demolab.com?user=32teeth&theme=swift&mode=weekly&border_radius=10&card_width=720)](https://git.io/streak-stats)
+[![32teeth's GitHub stats](https://streak-stats.demolab.com?user=32teeth&theme=swift&mode=weekly&border_radius=10&card_width=960)](https://git.io/streak-stats)
 
 ## Short Bio
-Hi, my name is Eugene, on the internets I am also known as 32teeth.
+
+Hi, my name is Eugene, on the internets I am also known as [32teeth](https://www.google.com/search?q=32teeth+eugene+andruszczenko).
 
 ## Long Bio
-I am a seasoned professional with extensive experience in the technology industry, spanning nearly three decades. Throughout my career, I have honed my skills in hardware, software, middleware, operations, and DevOps, allowing me to tackle complex challenges with ease. As a 'gray hat' engineer, I possess a unique ability to lead diverse teams while always operating within legal and ethical boundaries. My passion for innovation and collaboration has led me to cultivate cultures of excellence, driving product development and surpassing user expectations. [Full bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
+
+I am a seasoned professional with extensive experience in the technology industry, spanning nearly three decades. Throughout my career, I have honed my skills in hardware, software, middleware, firmware around customer centricity and experience, allowing me to tackle complex challenges with ease. As a 'gray hat' engineer, I possess a unique ability to lead diverse teams while always operating within legal and ethical boundaries. My passion for innovation and collaboration has led me to cultivate cultures of excellence, driving product development and surpassing user expectations. [Full bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
 
 ### Links
 * [Full Bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
