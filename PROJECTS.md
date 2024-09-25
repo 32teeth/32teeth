@@ -11,7 +11,7 @@
 Introducing the Retro ESP32 X, the latest iteration of our Retro ESP32 series! 🚀🕹️
 
 #### [Open Retro MGB](https://github.com/openretroMGB/OpenRetroMGB)
-[![Open Retro MGB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/logo.png)](https://github.com/openretroMGB/OpenRetroMGB)
+[![Open Retro MGB](https://raw.githubusercontent.com/openretroMGB/OpenRetroMGB/main/assets/splash.png)](https://github.com/openretroMGB/OpenRetroMGB)
 
 Introducing Open Retro MGB, the open-source, modular gaming board designed for gamers and hobbyists! 🎮
 
