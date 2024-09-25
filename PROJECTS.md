@@ -17,3 +17,5 @@ Introducing Open Retro MGB, the open-source, modular gaming board designed for g
 
 #### [Gaboze Pocaio](https://github.com/Gaboze-Pocaio/Round-2)
 ![Gaboze Pocaio](https://raw.githubusercontent.com/Gaboze-Pocaio/Round-2/main/images/002.jpg)
+
+Based on the popularity of the original Gaboze Pocaio and it's many updates. We have taken the Gaboze Pocaio - Plus Edition which featured the 2.6" TFT (ILI9342) and added a few more features
