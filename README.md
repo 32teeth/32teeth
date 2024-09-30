@@ -34,6 +34,5 @@ I am a seasoned professional with extensive experience in the technology industr
 
 [![Sponsor](https://github.com/user-attachments/assets/38c207bd-4687-47ae-a900-5bbe5ad62b07)](https://github.com/sponsors/32teeth)
 
-* [Daily Grind](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286331&preview=false)
-* [Caffeine Boost](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286332&preview=false)
-* [Espresso Shot](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286333&preview=false)
+| ![](https://raw.githubusercontent.com/npm-packages-collection/.github/main/profile/assets/coffee-001.png) [Daily Grind](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286331&preview=false) | ![](https://raw.githubusercontent.com/npm-packages-collection/.github/main/profile/assets/coffee-002.png) [Caffeine Boost](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286332&preview=false) | ![](https://raw.githubusercontent.com/npm-packages-collection/.github/main/profile/assets/coffee-003.png) [Espresso Shot](https://github.com/sponsors/32teeth/sponsorships?sponsor=32teeth&tier_id=286333&preview=false) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
