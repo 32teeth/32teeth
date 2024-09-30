@@ -20,7 +20,7 @@ I am a seasoned professional with extensive experience in the technology industr
 * [Projects](https://github.com/32teeth/32teeth/blob/main/PROJECTS.md)
 
 ### NPM Packages:
-[https://github.com/npm-packages-collection](**npm-packages-collection**) is a repository hub focusing on providing reusable JavaScript utilities and frameworks for various use cases, from API development to data manipulation. This collection includes a mix of small, highly focused utility libraries as well as more complex boilerplate setups.
+[**npm-packages-collection**](https://github.com/npm-packages-collection) is a repository hub focusing on providing reusable JavaScript utilities and frameworks for various use cases, from API development to data manipulation. This collection includes a mix of small, highly focused utility libraries as well as more complex boilerplate setups.
 
 |   | Repository | Description | Technology | License |
 |---|------------|-------------|------------|---------|
