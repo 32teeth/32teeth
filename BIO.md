@@ -1,13 +1,11 @@
 # Eugene Andruszczenko
 
-*Senior Staff Engineer | Technical Leader | ADHD Advocate*
+*IT Solutions Delivery Lead | Senior Staff Engineer | ADHD Advocate*
 
-> *With nearly three decades in the tech arena, I've mastered the intricacies of hardware, delved into the depths of software, and conquered the challenges of middleware, operations, and DevOps. Recognized as a 'gray hat' engineer, I've led diverse teams and mentored rising stars.*
+> *With nearly three decades in tech, I’ve navigated the full stack—from hardware and firmware to middleware, DevOps, and user experience. As a recognized “gray hat” engineer, I’ve led cross-functional teams, mentored emerging talent, and architected solutions that balance innovation with integrity.*
 
-***But here's the twist:** I'm also ADHD. Nine days out of ten, I'm calling the shots, but on that rare day, it's got me in its grip.*
+***Here’s the twist:*** I’m also ADHD. Most days, I’m steering the ship. On others, I’m wrestling the current. But through it all, I’ve built a career grounded in resilience, empathy, and technical excellence.
 
-*Yet, amidst the chaos, I've honed a path of integrity, reliability, and excellence. As a seasoned staff engineer, I've cultivated cultures of innovation and collaboration, shaping products that dazzle users and surpass expectations.*
+In my current role as an IT Solutions Delivery Lead, I bridge the gap between business vision and technical execution. I champion human-centered design and customer-first thinking, delivering solutions that don’t just work—they resonate. My mission is to craft experiences that delight users, elevate brands, and drive meaningful impact.
 
-*Driven by a fervor for human-centered design and customer-centricity, I craft solutions that aren't just cutting-edge—they're emotionally resonant, enhancing user journeys and driving brand loyalty.*
-
-*As I embark on fresh ventures, I'm poised to merge technical prowess with empathetic insights, delivering solutions that not only wow on a technical level but also win hearts and minds.*
+As I look ahead, I’m excited to keep blending deep technical expertise with lived neurodivergent insight—building systems that are not only smart, but also deeply human.
