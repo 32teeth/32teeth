@@ -10,7 +10,9 @@ Hi, my name is Eugene, on the internets I am also known as [32teeth](https://www
 
 ## Long Bio
 
-I am a seasoned professional with extensive experience in the technology industry, spanning nearly three decades. Throughout my career, I have honed my skills in hardware, software, middleware, firmware around customer centricity and experience, allowing me to tackle complex challenges with ease. As a 'gray hat' engineer, I possess a unique ability to lead diverse teams while always operating within legal and ethical boundaries. My passion for innovation and collaboration has led me to cultivate cultures of excellence, driving product development and surpassing user expectations. [Full bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
+Eugene Andruszczenko, widely known in the tech community as 32teeth, is a seasoned IT Solutions Delivery Lead with nearly 30 years of experience spanning hardware, software, and user experience design. With a foundation in ethical hacking and reverse engineering, Eugene has consistently delivered innovative, scalable solutions across industries.
+
+Currently leading IT solution delivery initiatives, Eugene bridges the gap between business needs and technical execution. His leadership style emphasizes collaboration, agility, and a relentless focus on customer success. Outside of his professional role, he is a prolific contributor to the open-source community, known for projects like RetroESP32 and OpenRetroMGB, and for mentoring emerging tech talent. [Full bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
 
 ### Links
 * [Full Bio](https://github.com/32teeth/32teeth/blob/main/BIO.md)
